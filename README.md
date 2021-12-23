@@ -10,3 +10,8 @@ Egy epoch a pálya elejétől az ágens "haláláig" tart. Minden iteráció ut�
 
 A feladathoz a program nagy része adott volt, nekem csupán a Q-tanulást kellett implementálnom. 
 
+
+
+![2021-12-23 08_30_32-Window](https://user-images.githubusercontent.com/22506745/147296221-a13758ac-e0c4-45f4-9611-46e476667288.png)
+![2021-12-23 08_30_15-Window](https://user-images.githubusercontent.com/22506745/147296227-654d36b1-b46d-4a6d-8667-fad6a815a9cb.png)
+
